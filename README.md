@@ -1,6 +1,6 @@
 # BGAAE
 
-Python code for "Bilateral Graph Attention Autoencoders for Unsupervised Change Detection Using VHR Remote Sensing Images"...
+Python code for "Bipartite Graph Attention Autoencoders for Unsupervised Change Detection Using VHR Remote Sensing Images"...
 
 ## Requirements
 
