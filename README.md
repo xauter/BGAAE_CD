@@ -1,6 +1,6 @@
 # BGAAE
 
-This is a test.
+Python code for "Bilateral Graph Attention Autoencoders for Unsupervised Change Detection Using VHR Remote Sensing Images"...
 
 ## Requirements
 
@@ -13,8 +13,18 @@ numpy==1.19.2
 pydensecrf==1.0rc2	
 
 ## Citation
-If you find our work useful for your research, please consider citing our paper:
+If you find our work useful for your research, please consider citing our paper. Thanks!
 
 
 ## Acknowledgement
-This code is heavily borrowed from the . We are very grateful for the contributions of these papers and related codes. In addtion, we are also very grateful for the outstanding contributions of the publicly available datasets (WHU and LEVIR) of the papers [4] and [5].
+In our implementations, we reference the code from Luigi T. Luppino and Dongyan Guo:
+
+1.https://github.com/llu025/Heterogeneous_CD/tree/master/Code-Aligned_Autoencoders
+2.https://git.io/SiamGAT
+
+We are very grateful for the contributions of these papers and related codes.
+
+
+## Contact us
+
+If you have any queries, please do not hesitate to contact me.
