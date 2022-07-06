@@ -26,6 +26,7 @@ If you find our work useful for your research, please consider citing our paper.
 In our implementations, we reference the code from Luigi T. Luppino and Dongyan Guo:
 
 1.https://github.com/llu025/Heterogeneous_CD/tree/master/Code-Aligned_Autoencoders
+
 2.https://git.io/SiamGAT
 
 We are very grateful for the contributions of these papers and related codes.
