@@ -4,9 +4,9 @@ Python code for "Bipartite Graph Attention Autoencoders for Unsupervised Change 
 
 ## Requirements
 
-python==3.7.10
+python==3.7.3
 
-tensorflow==2.1.0
+tensorflow-gpu==2.4.0
 
 tqdm==4.60.0
 
