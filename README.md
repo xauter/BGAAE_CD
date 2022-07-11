@@ -34,4 +34,4 @@ We are very grateful for the contributions of these papers and related codes.
 
 ## Contact us
 
-If you have any queries, please do not hesitate to contact me.
+If you have any queries, please do not hesitate to contact us.
