@@ -1,4 +1,4 @@
-# BGAAE
+# BGAAE_CD
 
 Python code for "Bipartite Graph Attention Autoencoders for Unsupervised Change Detection Using VHR Remote Sensing Images"...
 
